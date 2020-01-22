@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(35, 223, 207);
+}
+
+h1{
+    text-align: center;
+}
+
+table, td, tbody{
+    margin-left: 20%;
+    border: 3px solid red;
+    
+}
+
+.rejouer{
+    text-align: center;
+}
